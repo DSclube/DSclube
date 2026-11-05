@@ -27,32 +27,9 @@ Ele nasceu de uma ideia simples: a gente aprende mais rápido quando constrói j
 
 Se você curte programar, quer aprender fazendo ou só quer encontrar gente que também fica pensando em código no ônibus, senta aí.
 
-```js
-// clube-ds.js
-const clubeDS = {
-  nome: "Clube D/S",
-  escola: "SENAI CIMATEC",
-  cursos: ["Desenvolvimento de Sistemas", "Redes"],
-  feitoPor: "estudantes",
-  feitoPara: "estudantes",
-  lema: "Programação na prática",
-};
-
-export function entrar({ nome, curso }) {
-  if (!clubeDS.cursos.includes(curso)) {
-    return `${nome}, o clube é pra quem cursa ${clubeDS.cursos.join(" ou ")}.`;
-  }
-  return `Bem-vindo(a), ${nome}! 🚀 A gente guardou um lugar pra você.`;
-}
-```
-
-E pra quem é de Redes, a gente também fala a sua língua:
-
-```bash
-$ ping clube-ds
-PING clube-ds (você): 56 data bytes
-64 bytes from você: icmp_seq=0 ttl=64 time=0.042 ms   # estamos te esperando
-```
+<div align="center">
+<img src="assets/codigo.svg" alt="Código em JavaScript do Clube D/S: a função entrar dá boas-vindas a estudantes de Desenvolvimento de Sistemas e Redes" width="100%">
+</div>
 
 <div align="center"><img src="assets/buddy-voando.svg" alt="Buddy voando" width="100%"></div>
 
@@ -126,4 +103,5 @@ O próprio site do clube é um projeto de estudantes:
 </div>
 
 <!-- 🥚 Easter egg: se você chegou até aqui lendo o código-fonte do README, você já é do clube. -->
+
 
