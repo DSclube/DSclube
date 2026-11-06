@@ -1,14 +1,8 @@
 <div align="center">
 
-  <img src="assets/banner.svg" alt="Clube D/S — programação na prática" width="100%">
+  <img src="assets/banner.svg" alt="Clube D/S — Um clube de programação feito por estudantes, para estudantes. Desenvolvimento de Sistemas e Redes · SENAI CIMATEC" width="100%">
 
   <br><br>
-
-  <h1><b>Clube D/S</b></h1>
-  <p><b>Um clube de programação feito por estudantes, para estudantes.</b></p>
-  <p><i>Desenvolvimento de Sistemas e Redes · SENAI CIMATEC</i></p>
-
-  <br>
 
   <a href="https://dsclube.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Site-dsclube.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Oficial" />
